@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "186012380414",
+    "project_id": "ahoexpenses",
+    "storage_bucket": "ahoexpenses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186012380414:android:02a78aab86ee8aa63849af",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186012380414-0l49acbr8tn229uificld72jrci28mv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvjxsxrXrEbvk2LC29k7DPzjDRoqT2hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186012380414-0l49acbr8tn229uificld72jrci28mv0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186012380414-40eslojoch5eu8tr1v0jlqp8b578ikf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
