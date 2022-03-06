@@ -2,9 +2,11 @@
   "expo": {
     "name": "AHOexpenses",
     "slug": "AHOexpenses",
+    "privacy":"public",
+    "description":"An application to keep track of expenses",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.jpeg",
+    "icon": "./assets/favicon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -17,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "host.exp.exponent"
     },
     "android": {
       "adaptiveIcon": {
